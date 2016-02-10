@@ -1,6 +1,11 @@
 WebDev Setup with Vagrant
 ==================
 
+One of the most difficult things to get started with Web Development is installing all the programs in your environment.  We're going to run a series of commands to provision the environment.
+
+During the process, you shouldn't worry too much about "why" you're doing what you're doing.  Just know that these steps are the steps it takes to provision a web development environment using vagrant (which many students continue to use even after graduation).
+
+
 First a little about passwords: Read all of this
 ------------------
 
