@@ -139,7 +139,7 @@ rails s
 ```
 
 
-Open a web browser on your windows machine and go to: [http://127.0.0.1:3030](http://127.0.0.1:3030)
+Open a web browser on your computer and go to: [http://127.0.0.1:4000](http://127.0.0.1:4000)
 
 
 Step 8: Stop your rails server
