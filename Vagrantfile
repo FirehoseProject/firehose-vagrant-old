@@ -31,7 +31,7 @@ Vagrant.configure(2) do |config|
   # We need to forward one port on the guest to the same port as the host
   # in order for WebPackDevServer's hot reloading to work.
   config.vm.network "forwarded_port", guest: 8080, host: 8080
-  config.vm.network "forwarded_port", guest: 3000, host: 4000
+  config.vm.network "forwarded_port", guest: 3000, host: 3030
   
   # Create a private network, which allows host-only access to the machine
   # using a specific IP.
