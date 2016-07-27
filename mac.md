@@ -35,7 +35,7 @@ Step 3: Install the tools
 
 
 * Go to the [VirtualBox Website](https://www.virtualbox.org/wiki/Downloads), click the link to Download "VirtualBox for OS X hosts".  Open the dmg file that downloads, then double click on VirtualBox.pkg that pops up and follow the instructions (you're clicking continue most of the time).  Once you go through that step close out the "VirtualBox" window.
-* Go to the [Sublime Text Editor Website](http://sublimetext.com/) and click "Download for Mac".  Open the file and [drag the Sublime Text 2 program into the Applications folder](http://i.imgur.com/pgjF3WL.png), then launch the program by going into your _Launch Pad_ and finding "Sublime Text 2".  (Note: This may say that this is from an [unidentified developer and is unallowed, to continue](http://i.imgur.com/FNTYmyL.png) if this happens open Launch Pad > System Preferences > Security & Privacy and click [open Anyway](http://i.imgur.com/XPVpfRf.png). )  It will probably tell you ["Sublime Text" is an application downloaded from the internet. Are you sure you want to open it?](http://i.imgur.com/bjtmqkw.png)  Press **Open**.  This will launch the Sublime Text editor, and you'll be good.  If you need more help check out [this Sublime Text install video](https://vimeo.com/88292868) we made.
+* Go to the [Sublime Text Editor Website](http://sublimetext.com/) and click "Download for Mac".  Open the file and [drag the Sublime Text program into the Applications folder](http://i.imgur.com/pgjF3WL.png), then launch the program by going into your _Launch Pad_ and finding "Sublime Text".  (Note: This may say that this is from an [unidentified developer and is unallowed, to continue](http://i.imgur.com/FNTYmyL.png) if this happens open Launch Pad > System Preferences > Security & Privacy and click [open Anyway](http://i.imgur.com/XPVpfRf.png). )  It will probably tell you ["Sublime Text" is an application downloaded from the internet. Are you sure you want to open it?](http://i.imgur.com/bjtmqkw.png)  Press **Open**.  This will launch the Sublime Text editor, and you'll be good.  If you need more help check out [this Sublime Text install video](https://vimeo.com/88292868) we made.
 * Go to the [Vagrant Download Page](http://www.vagrantup.com/downloads.html), click Find the Mac OS X section and click "Universal (32 and 64-bit)".  Run the file you downloaded and follow the instructions (you're clicking next most of the time)
 * Restart your computer if you're prompted to.
 
@@ -138,7 +138,7 @@ git config --global user.name "Your Name"
 
 _We need an amazon developer account for some image storage space on Amazons S3 service (this will cost you nothing)_
 
-* Sign-up and create an account for [Amazon Web Services](http://aws.amazon.com/). Anything we'll do over the weekend will cost you nothing, so don't worry about your credit card being charged.
+* Sign-up and create an account for [Amazon Web Services](http://aws.amazon.com/). Anything we'll do during this course will cost you nothing, so don't worry about your credit card being charged.
 
 
 Step 7: Test
