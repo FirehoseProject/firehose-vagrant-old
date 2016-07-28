@@ -78,7 +78,9 @@ __Third__: you may get prompted if you want to continue.  If this comes up for y
 
 ![continue](http://i.imgur.com/gR34qy2.png)
 
-__Fourth__: Then you'll be prompted with a terminal window inside your web
+__Fourth__: You may be asked for the vagrant@127.0.0.1's password. If so, the password is `vagrant`.
+
+__Fifth__: Then you'll be prompted with a terminal window inside your web
 development environment that looks like this:
 
 ![web-dev-environment](http://i.imgur.com/UdZvZTj.png)
